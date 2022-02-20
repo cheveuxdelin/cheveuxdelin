@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![TikTok Badge](https://img.shields.io/badge/TikTok-Follow-blue)](https://www.tiktok.com/@ellasstudy?)
+
 <!--
 **cheveuxdelin/cheveuxdelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
